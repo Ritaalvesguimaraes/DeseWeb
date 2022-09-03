@@ -1,0 +1,34 @@
+body {
+	font-family: verdana, sans-serif;
+}
+
+h2, h3 {
+	color: pink;
+}
+header {
+	color: gray;
+}
+header p {
+	color: blue;
+}
+table, td, th {
+	border: solid 2px;
+	text-align: center;
+    background-color: lightgray;
+    width: 350px;
+    height: 50px;
+
+}
+a:link {
+	color: blue;
+}
+a:visited {
+	color: darkblue;
+}
+a:hover {
+	color: blue;
+	text-decoration: none;
+}
+a:active {
+	color: red;
+}
